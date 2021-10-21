@@ -103,5 +103,3 @@ function noTriples(nums){
   }
   return true;
 }
-
-9> 
